@@ -1,1 +1,3 @@
 # LatUKLSoalSulit1
+![WhatsApp Image 2025-11-04 at 18 02 32_ef7bbf6c](https://github.com/user-attachments/assets/1da1e29d-9e31-4ea0-ad67-2fd6491c1457)
+Program **RataNilai** berfungsi untuk menghitung rata-rata nilai dari sejumlah siswa. Cara kerjanya dimulai dengan meminta pengguna memasukkan jumlah siswa menggunakan kelas `Scanner`. Program kemudian menjalankan perulangan `for` sebanyak jumlah siswa tersebut untuk meminta input nilai masing-masing siswa dan menambahkan nilainya ke variabel `total`. Setelah semua nilai dimasukkan, program menghitung rata-rata dengan membagi total nilai dengan jumlah siswa, lalu menampilkan hasilnya ke layar. Dengan demikian, program ini membantu menghitung rata-rata nilai secara otomatis dan efisien.
